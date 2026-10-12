@@ -1,0 +1,21 @@
+﻿# Credenciales y variables de entorno
+.env
+.env.*
+!.env.example
+
+# Dependencias y compilación
+node_modules/
+dist/
+
+# Respaldos locales
+backups/
+
+# Registros
+*.log
+npm-debug.log*
+
+# Archivos del sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
